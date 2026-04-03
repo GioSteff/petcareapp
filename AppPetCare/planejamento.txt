@@ -1,0 +1,23 @@
+Aplicativo de PetCare:
+1. Dados do Pet - Nome, Nascimento, Pai, Mãe, Raça;
+2. Histórico de Vacinas - com nome do veterinário;
+3. Histórico de Visitas ao Veterinário;
+4. Diário do Pet, com fotos;
+5. Lista de Compras para o Pet;
+6. Lembretes de calendário para Vacina, Banho, Tosa, Aniversário do PET, etc...
+7. Número do Chip de Identificação
+Empresa de controle do Chip (com telefone)
+Disponibilização de dados para entidades de cuidado de pets (ONGs)
+
+Pensando em cadastros de auxílio para donos de PET:
+1. Veterinários na região;
+2. Hospitais PET;
+3. Lojas PET;
+4. Banho e tosa PET...
+
+Incluir um acesso restrito a clínicas e hospitais para pedidos de sangue por exemplo
+Sos pet ambulância
+Laboratorial e emergências
+
+
+Programar para o usuário poder inserir uma foto no cadastro e não para aparecer uma foto pré programada

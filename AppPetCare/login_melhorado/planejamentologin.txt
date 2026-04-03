@@ -1,0 +1,4 @@
+Montar no modelo padrão de android compact -> 412x917
+Fazer tela de boas vindas antes
+Manter tudo na mesma janela
+Opção para conectar com o google

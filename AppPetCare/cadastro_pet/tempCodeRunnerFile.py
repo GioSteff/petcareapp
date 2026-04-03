@@ -1,0 +1,1 @@
+# Não aparece novas informações, frame antigo do pet n sai

@@ -1,0 +1,25 @@
+
+self.conn.commit() - is used in Python database programming to permanently save any changes made to the database during the current transaction
+
+from __future__ import annotations - It allows you to use type hints for classes or types that are defined later in the file or in a file with a circular import dependency. Without this, Python would raise a NameError because the name hasn't been defined yet.
+
+hasattr() - no Python verifica se um objeto possui um determinado atributo ou método, retornando True se o atributo existir e False caso contrário. Ela é amplamente usada para evitar erros de execução (AttributeError) ao interagir com objetos dinâmicos ou de tipos variados, verificando a existência de atributos antes de acessá-los.
+
+isinstance() - no Python verifica se um objeto é uma instância ou subclasse de uma classe específica, retornando True ou False. É o método recomendado para checagem de tipos (ex: isinstance(var, int)), pois suporta herança, diferentemente do type(), tornando o código mais robusto e "pythonico"
+
+KeyError - no Python ocorre quando você tenta acessar uma chave (key) inexistente em um dicionário (dict) ou em uma estrutura de dados semelhante a um mapeamento. Geralmente, é causado por erros de digitação, chaves mal formatadas ou tentativa de acesso a dados dinâmicos não carregados
+
+Parte 3: hashlib.sha256()
+python
+import hashlib
+objeto_hash = hashlib.sha256(texto_bytes)
+# Cria um objeto hash SHA-256 (algoritmo de criptografia)
+SHA-256 é um algoritmo que:
+
+Transforma qualquer texto em uma sequência única de caracteres
+
+É impossível voltar (não dá para descobrir o texto original)
+
+Mesma entrada sempre gera a mesma saída
+
+Entrada diferente gera saída completamente diferente
