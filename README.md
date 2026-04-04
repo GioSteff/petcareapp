@@ -13,19 +13,19 @@ Em desenvolvimento.
 - Login com google
 - Recuperação de senha (em desenvolvimento)
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python
 - Django
 - SQLite
 - HTML/CSS
 
-## 📌 Roadmap
+## Roadmap
 - [ ] Sistema de recuperação de senha
 - [ ] Notificações
 - [ ] Melhorias na interface
 - [ ] Deploy da aplicação
 
-## ▶️ Como rodar o projeto
+## Como rodar o projeto
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
