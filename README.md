@@ -1,3 +1,34 @@
-Esse é um projeto pessoal de um app para pets, ele ainda esta em andamento, então tem muita coisa que ainda quero fazer e mudar.
-O projeto inclui algumas anotações e comentários do que ainda planejo fazer/mudar.
-Atualmente estou trabalhando em um sistema de recuperação de senha para implementar nesse projeto, mas não esta incluso junto pois ainda preciso configurar melhor antes.
+# 🐾 PetCare App
+
+Projeto pessoal de aplicativo para gerenciamento de cadastro de pet, futuramente permitindo os seus cuidados, alimentação, rotina e outros de forma prática.
+
+## Status do Projeto
+Em desenvolvimento.
+
+## Funcionalidades
+- Cadastro de usuários
+- Cadastro de pets
+- Registro de informações básicas
+- Sistema de autenticação
+- Login com google
+- Recuperação de senha (em desenvolvimento)
+
+## 🛠️ Tecnologias
+- Python
+- Django
+- SQLite
+- HTML/CSS
+
+## 📌 Roadmap
+- [ ] Sistema de recuperação de senha
+- [ ] Notificações
+- [ ] Melhorias na interface
+- [ ] Deploy da aplicação
+
+## ▶️ Como rodar o projeto
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+pip install -r requirements.txt
+python manage.py runserver
